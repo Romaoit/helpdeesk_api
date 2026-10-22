@@ -1,10 +1,10 @@
-# AI HelpDesk API
+# HelpDesk API
 
 API REST desenvolvida com Node.js e Express para a gestão de pedidos de suporte técnico, implementando as operações CRUD (Create, Read, Update e Delete).
 
 ## Sobre o projeto
 
-O AI HelpDesk API é um projeto de aprendizagem e demonstração de competências em desenvolvimento backend, integração de sistemas e gestão de dados através de APIs REST.
+O HelpDesk API é um projeto de aprendizagem e demonstração de competências em desenvolvimento backend, integração de sistemas e gestão de dados através de APIs REST.
 
 A aplicação permite criar, consultar, atualizar e eliminar pedidos de suporte técnico, utilizando endpoints HTTP e respostas em formato JSON.
 
